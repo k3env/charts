@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  appwrite-helm:
+  - apiVersion: v2
+    appVersion: 0.11.0
+    created: "2022-02-14T14:51:53.336079795Z"
+    description: Appwrite Helm chart
+    digest: 2d5ac31f2ee0f773fc639947abe820b5ea8fff62499daeb488794f4aecfc3169
+    name: appwrite-helm
+    type: application
+    urls:
+    - https://github.com/k3env/charts/releases/download/appwrite-helm-1.0.0/appwrite-helm-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-02-14T14:51:53.203039693Z"
